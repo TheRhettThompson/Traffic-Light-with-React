@@ -21,9 +21,39 @@
     align-items: center;
 }
 
+
 .light {
-    width: 30px;
-    height: 30px;
+    width: 80px;
+    height: 80px;
     background-color: gray;
     border-radius: 50%;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.purple{
+    background-color: violet;
+}
+
+.ambient{
+    box-shadow: 0px 0px 30px 30px palegoldenrod;
+}
+
+.button{
+    
+    
+}
+
+.p{
+    font-family: Arial;
 }
