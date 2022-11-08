@@ -8,7 +8,11 @@ const Home = () => {
 	return (
 		<div className="center">
 			<div className="wire" > </div>
-			<div className="box"></div>
+			<div className="box">
+				<div className="red light"></div>
+				<div className="yellow light"></div>
+				<div className="green light"></div>
+			</div>
 
 
 
