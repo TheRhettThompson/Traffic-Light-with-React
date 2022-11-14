@@ -32,7 +32,7 @@ const Home = () => {
 				<button 
 				onClick={() => setSelectedColor('purple')}
 				className={"" + (selectedColor === "purple" ? "light purple ambient box2" : "")}>
-				<p>See Purple</p>
+				<p>Click to See Purple</p>
 				</button>
 
 			</div>

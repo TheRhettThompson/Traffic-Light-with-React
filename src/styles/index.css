@@ -12,7 +12,7 @@
 }
 
 .box{
-    height: 300px;
+    height: 325px;
     width:125px;
     background-color: black;
     border-radius: 20px;
@@ -42,18 +42,14 @@
 }
 
 .purple{
-    background-color: violet;
+    background-color: rgb(117, 9, 117);
 }
 
 .ambient{
     box-shadow: 0px 0px 30px 30px palegoldenrod;
 }
 
-.button{
-    
-    
-}
 
-.p{
-    font-family: Arial;
-}
+
+ 
+
